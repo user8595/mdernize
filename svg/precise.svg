@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="precise.svg"
-   inkscape:export-filename="..\..\png\dark\precision.png"
+   inkscape:export-filename="..\png\precise.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="2.2828597"
-     inkscape:cx="127.25267"
-     inkscape:cy="119.80587"
+     inkscape:zoom="0.80711279"
+     inkscape:cx="0"
+     inkscape:cy="112.12807"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -44,13 +44,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-       d="M 33.866667,10.345973 V 57.387361"
-       id="path2" />
-    <path
-       id="path3"
+       id="path4"
        style="stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="M 33.867797,7.1532572 A 0.95814057,0.95814057 0 0 0 32.909786,8.1112691 V 32.909786 H 8.1112691 a 0.95814057,0.95814057 0 0 0 -0.9580119,0.958011 0.95814057,0.95814057 0 0 0 0.9580119,0.958011 H 32.909786 v 24.796255 a 0.95814057,0.95814057 0 0 0 0.958011,0.958011 0.95814057,0.95814057 0 0 0 0.958011,-0.958011 V 34.825808 h 24.796255 a 0.95814057,0.95814057 0 0 0 0.958011,-0.958011 0.95814057,0.95814057 0 0 0 -0.958011,-0.958011 H 34.825808 V 8.1112691 A 0.95814057,0.95814057 0 0 0 33.867797,7.1532572 Z" />
+       d="m 33.867683,5.2776971 c -1.553306,2.102e-4 -2.831659,1.2814868 -2.831868,2.8339355 V 31.035815 H 8.1116328 c -1.5524487,2.09e-4 -2.8337253,1.278562 -2.8339355,2.831868 2.102e-4,1.553308 1.2806279,2.833727 2.8339355,2.833936 H 31.035815 v 22.920048 0.0021 c 2.11e-4,1.552448 1.279421,2.831659 2.831868,2.831869 1.552448,-2.1e-4 2.833725,-1.278562 2.833936,-2.831869 v -0.0021 -22.920048 h 22.920048 0.0021 c 1.553277,-2.11e-4 2.831659,-1.281488 2.831869,-2.833936 -2.1e-4,-1.552447 -1.279421,-2.831657 -2.831869,-2.831868 h -0.0021 -22.920048 V 8.1116326 C 36.70141,6.558325 35.420991,5.2779073 33.867683,5.2776971 Z" />
   </g>
   <metadata
      id="metadata1">

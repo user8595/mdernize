@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="text-input.svg"
-   inkscape:export-filename="..\png\input.png"
+   inkscape:export-filename="..\png\text-input.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,8 +30,8 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="1.3333672"
-     inkscape:cx="49.123752"
-     inkscape:cy="118.122"
+     inkscape:cx="125.62181"
+     inkscape:cy="149.6212"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -45,9 +45,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path3"
-       style="stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stroke:#ffffff;fill:#000000;stroke-width:1.5;stroke-dasharray:none"
-       d="M 30.086019 9.2986572 A 0.75 0.75 0 0 0 29.336194 10.048999 A 0.75 0.75 0 0 0 30.086019 10.798824 L 33.117358 10.798824 L 33.117358 56.933476 L 30.086019 56.933476 A 0.75 0.75 0 0 0 29.336194 57.683818 A 0.75 0.75 0 0 0 30.086019 58.433643 L 33.867183 58.433643 L 37.648348 58.433643 A 0.75 0.75 0 0 0 38.39869 57.683818 A 0.75 0.75 0 0 0 37.648348 56.933476 L 34.617008 56.933476 L 34.617008 10.798824 L 37.648348 10.798824 A 0.75 0.75 0 0 0 38.39869 10.048999 A 0.75 0.75 0 0 0 37.648348 9.2986572 L 30.086019 9.2986572 z " />
+       id="path2"
+       style="stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stroke:#ffffff;stroke-width:1.5;stroke-dasharray:none"
+       d="M 30.086019 7.6739502 C 28.785804 7.6742535 27.710379 8.7483624 27.71097 10.048999 C 27.711275 11.349024 28.785995 12.423745 30.086019 12.424048 L 31.492135 12.424048 L 31.492135 55.308769 L 30.086019 55.308769 C 28.785804 55.309071 27.710378 56.38318 27.71097 57.683818 C 27.711275 58.983842 28.785996 60.058046 30.086019 60.05835 L 33.867183 60.05835 L 37.648348 60.05835 C 38.948986 60.058943 40.023095 58.984033 40.023397 57.683818 C 40.023991 56.382989 38.949177 55.308175 37.648348 55.308769 L 36.242232 55.308769 L 36.242232 12.424048 L 37.648348 12.424048 C 38.948986 12.424641 40.023095 11.349215 40.023397 10.048999 C 40.023991 8.7481701 38.949177 7.6733569 37.648348 7.6739502 L 30.086019 7.6739502 z " />
   </g>
   <metadata
      id="metadata4">
