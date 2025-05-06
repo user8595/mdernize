@@ -8,11 +8,13 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolution 
 
 ## Installation
 
-Head over to the [Releases](https://www.github.com/user8595/mdernize/releases/latest) section and download the latest version.
+- Head over to the [Releases](https://www.github.com/user8595/mdernize/releases/latest) section and download the latest version.
+
+- Extract the .zip file
 
 ![Right click then Install](./png/install.png)
 
-Right click the `install.inf` file then select "Install".
+- Right click the `install.inf` file then select "Install".
 
 ## Miscellaneous Info
 
