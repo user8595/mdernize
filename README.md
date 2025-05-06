@@ -22,6 +22,12 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolution 
 - [RealWorld Cursor Editor](http://rw-designer.com/cursor-maker) for converting SVG images into .cur files
 - Source for `install.inf` file unknown as i forgot about it.
 
+## TODO
+
+- Make all cursors high quality (128px)
+- Readjust precise cursor and text insert cursors
+- Add light mode
+
 ## License
 
 Licensed under the [MIT License](./LICENSE).
