@@ -4,7 +4,7 @@
 
 A minimalist cursor theme for Windows. Usability over looks.
 
-Tested only on a 14" 1366x768 HD screen, so might be small on higher resolution (?).
+Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions (?).
 
 ## Installation
 
@@ -24,9 +24,7 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolution 
 
 ## TODO
 
-- Make all cursors high quality (128px)
-- Readjust precise cursor and text insert cursors
-- Add light mode
+None for now.
 
 ## License
 
