@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733332"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="text-input.svg"
+   inkscape:export-filename="..\..\png\dark\text-input.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.2579365"
+     inkscape:cx="195.55836"
+     inkscape:cy="142.69401"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="path1"
+       inkscape:transform-center-x="-14.574798"
+       inkscape:transform-center-y="19.90102" />
+    <path
+       id="path3"
+       style="stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stroke:#ffffff;stroke-width:4;stroke-dasharray:none;fill:#000000"
+       d="M 26.646436 7.8532674 A 1 1 0 0 0 25.646497 8.8537231 A 1 1 0 0 0 26.646436 9.8536621 L 32.867244 9.8536621 L 32.867244 57.879154 L 26.646436 57.879154 A 1 1 0 0 0 25.646497 58.879093 A 1 1 0 0 0 26.646436 59.879032 L 41.085864 59.879032 A 1 1 0 0 0 42.085803 58.879093 A 1 1 0 0 0 41.085864 57.879154 L 34.867122 57.879154 L 34.867122 9.8536621 L 41.085864 9.8536621 A 1 1 0 0 0 42.085803 8.8537231 A 1 1 0 0 0 41.085864 7.8532674 L 33.867183 7.8532674 L 26.646436 7.8532674 z " />
+  </g>
+</svg>
