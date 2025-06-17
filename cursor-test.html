@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursor Test</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 36px;
+        }
+
+        hr {
+            border: 2px solid #262626;
+            width: 95%;
+        }
+
+        footer {
+            font-size: 12px;
+            margin-inline: 2.5%;
+            color: #444;
+        }
+
+        .header {
+            margin-inline: auto;
+            text-align: center;
+            background-color: #00000080;
+            padding: 18px;
+            width: 90%;
+            font-size: 28px;
+            border-radius: 12px;
+            font-weight: bold;
+        }
+
+        .sub {
+            display: block;
+            margin-top: 8px;
+            font-weight: normal;
+            color: #888;
+            font-size: 14px;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, 0fr);
+            padding-inline: 16px;
+            grid-gap: 6px;
+            margin-inline: 100px;
+            background-color: #00000000;
+            justify-content: center;
+            margin-top: 28px;
+            margin-bottom: 24px;
+        }
+
+        .box,
+        .box1 {
+            display: flex;
+            background-color: #151515;
+            justify-content: center;
+            align-items: center;
+            font-size: 16px;
+            font-weight: normal;
+            border-radius: 8px;
+            padding: 16px;
+            height: 16px;
+            width: 200px;
+        }
+
+        .box1 {
+            background-color: #171717;
+        }
+
+        .box:hover {
+            background-color: #242424;
+            transition-duration: 0.2s;
+        }
+
+        .box1:hover {
+            background-color: #282828;
+            transition-duration: 0.2s;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: repeat(2, 0fr);
+            }
+        }
+
+        @media (max-width: 568px) {
+            .container {
+                grid-template-columns: repeat(1, 0fr);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <p class="header">
+        Cursor Test
+        <br>
+        <span class="sub">hover your cursor into each box to test the theme.</span>
+    </p>
+    <div class="container">
+        <div class="box" style="cursor: default;">Normal</div>
+        <div class="box box1" style="cursor: pointer;">Link Select</div>
+        <div class="box" style="cursor: wait";">Busy</div>
+        <div class="box box1" style="cursor: help;">Help</div>
+        <div class="box" style="cursor: progress;">Working In Background</div>
+        <div class="box box1" style="cursor: crosshair;">Precision</div>
+        <div class="box" style="cursor: text;">Text Select</div>
+        <div class="box box1" style="cursor: not-allowed;">Unavailable</div>
+        <div class="box" style="cursor: n-resize;">Vertical Resize</div>
+        <div class="box box1" style="cursor: e-resize;">Horizontal Resize</div>
+        <div class="box" style="cursor: se-resize;">Diagonal Resize 1</div>
+        <div class="box box1" style="cursor: ne-resize;">Diagonal Resize 2</div>
+        <div class="box" style="cursor: move;">Move</div>
+    </div>
+    <hr>
+    <footer>"Alternate Select", "Handwriting", "Person Select", and "Location Select" are not included due to CSS limitations.</footer>
+</body>
+
+</html>
