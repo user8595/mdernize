@@ -14,7 +14,15 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions
 
 ![Right click then Install](./png/install.png)
 
-- Right click the `install.inf` file then select "Install".
+- Open the folder of each variant (dark & light)
+
+- Then right click the `install.inf` file, and select "Install".
+
+- Open the Mouse Properties setting in Control Panel, then select the installed cursor theme, which should look like this:
+
+![Mouse settings](./png/mouse.png)
+
+- You can test the cursor theme using the webpage (`cursor-test.html`) bundled in the `mdernize.zip` file.
 
 ## Miscellaneous Info
 
@@ -24,7 +32,7 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions
 
 ## TODO
 
-None for now.
+-~-
 
 ## License
 
