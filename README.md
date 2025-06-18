@@ -1,22 +1,20 @@
 ![Preview Image](./png/cover.png)
 
-# mdernize
+Minimalist cursor theme for Windows. Usability over looks.
 
-A minimalist cursor theme for Windows. Usability over looks.
-
-Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions (?).
+Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions.
 
 ## Installation
 
 - Head over to the [Releases](https://www.github.com/user8595/mdernize/releases/latest) section and download the latest version.
 
-- Extract the .zip file
-
-![Right click then Install](./png/install.png)
+- Extract the .zip file.
 
 - Open the folder of each variant (dark & light)
 
-- Then right click the `install.inf` file, and select "Install".
+- Then right click the `install.inf` file, and select "Install", as the image below:
+
+![Right click then Install](./png/install.png)
 
 - Open the Mouse Properties setting in Control Panel, then select the installed cursor theme, which should look like this:
 
@@ -27,7 +25,7 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions
 ## Miscellaneous Info
 
 - [Inkscape](https://inkscape.org) for SVG assets
-- [RealWorld Cursor Editor](http://rw-designer.com/cursor-maker) for converting SVG images into .cur files
+- [RealWorld Cursor Editor](http://rw-designer.com/cursor-maker) for converting exported PNG images from SVG assets into .cur files
 - Source for `install.inf` file unknown as i forgot about it.
 
 ## TODO
@@ -36,4 +34,4 @@ Tested only on a 14" 1366x768 HD screen, so might be small on higher resolutions
 
 ## License
 
-Licensed under the [MIT License](./LICENSE).
+Licensed under the [MIT License](./LICENSE.md).
